@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Line Chart</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f2f2f2;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #fff;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+        }
+        h1 {
+            text-align: center;
+        }
+        img {
+            display: block;
+            margin: 0 auto;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Line Chart: Relationship Between Preparation Time and Cooking Time</h1>
+        <img src="data:image/png;base64,{{ plot_url }}" alt="Line Chart">
+    </div>
+    <div class="log-sign" style="--i: 1.8s">
+        <a href="/dashboard" class="btn transparent">Back</a>
+    </div>
+</body>
+</html>

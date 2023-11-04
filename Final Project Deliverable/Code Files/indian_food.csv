@@ -1,0 +1,256 @@
+name,ingredients,diet,prep_time,cook_time,flavor_profile,course,state,region,total_prep_time
+Balu shahi,"maida flour, yogurt, oil, sugar",,0.09181636726546905,0.036061026352288486,sweet,dessert,West Bengal,East,0.09836065573770492
+Boondi,"gram flour, ghee, sugar",,0.16167664670658682,0.04299583911234397,sweet,dessert,Rajasthan,West,0.15300546448087432
+Gajar ka halwa,"carrots, milk, sugar, ghee, cashews, raisins",,0.031936127744510975,0.08460471567267684,sweet,dessert,Punjab,North,0.1051912568306011
+Ghevar,"flour, ghee, kewra, milk, clarified butter, sugar, almonds, pistachio, saffron, green cardamom",,0.031936127744510975,0.04299583911234397,sweet,dessert,Rajasthan,West,0.06420765027322405
+Gulab jamun,"milk powder, plain flour, baking powder, ghee, milk, sugar, water, rose water",,0.031936127744510975,0.056865464632454926,sweet,dessert,West Bengal,East,0.0778688524590164
+Imarti,"sugar syrup, lentil flour",,0.021956087824351298,0.07073509015256588,sweet,dessert,West Bengal,East,0.08469945355191257
+Jalebi,"maida, corn flour, baking soda, vinegar, curd, water, turmeric, saffron, cardamom",,0.021956087824351298,0.07073509015256588,sweet,dessert,Uttar Pradesh,North,0.08469945355191257
+Kaju katli,"cashews, ghee, cardamom, sugar",,0.021956087824351298,0.02912621359223301,sweet,dessert,-1,-1,0.04371584699453552
+Kalakand,"milk, cottage cheese, sugar",,0.041916167664670656,0.04299583911234397,sweet,dessert,West Bengal,East,0.07103825136612023
+Kheer,"milk, rice, sugar, dried fruits",,0.021956087824351298,0.056865464632454926,sweet,dessert,-1,-1,0.07103825136612023
+Laddu,"gram flour, ghee, sugar",,0.021956087824351298,0.056865464632454926,sweet,dessert,-1,-1,0.07103825136612023
+Lassi,"yogurt, milk, nuts, sugar",,0.011976047904191617,0.008321775312066574,sweet,dessert,Punjab,North,0.01639344262295082
+Nankhatai,"refined flour, besan, ghee, powdered sugar, yoghurt, green cardamom",,0.041916167664670656,0.04299583911234397,sweet,dessert,-1,-1,0.07103825136612023
+Petha,"firm white pumpkin, sugar, kitchen lime, alum powder",,0.021956087824351298,0.04299583911234397,sweet,dessert,Uttar Pradesh,North,0.05737704918032787
+Phirni,"rice, sugar, nuts",,0.06187624750499001,0.02912621359223301,sweet,dessert,Odisha,East,0.07103825136612023
+Rabri,"condensed milk, sugar, spices, nuts",,0.021956087824351298,0.0638002773925104,sweet,dessert,Uttar Pradesh,North,0.0778688524590164
+Sheera,"semolina, ghee, nuts, milk",,0.021956087824351298,0.036061026352288486,sweet,dessert,Maharashtra,West,0.050546448087431695
+Singori,"khoa, coconut, molu leaf",,0.021956087824351298,0.02912621359223301,sweet,dessert,Uttarakhand,North,0.04371584699453552
+Sohan halwa,"corn flour, ghee, dry fruits",,0.021956087824351298,0.08460471567267684,sweet,dessert,Uttar Pradesh,North,0.09836065573770492
+Sohan papdi,"gram flour, ghee, sugar, milk, cardamom",,0.0,0.08460471567267684,sweet,dessert,Maharashtra,West,0.08333333333333334
+Chhena jalebi,"chhena, sugar, ghee",,0.021956087824351298,0.07073509015256588,sweet,dessert,Odisha,East,0.08469945355191257
+Chhena kheeri,"chhena, sugar, milk",,0.0,0.08460471567267684,sweet,dessert,Odisha,East,0.08333333333333334
+Chhena poda,"sugar, chenna cheese",,0.021956087824351298,0.0638002773925104,sweet,dessert,Odisha,East,0.0778688524590164
+Cham cham,"flour, cream, sugar, saffron, lemon juice, coconut flakes",,0.08183632734530938,0.08460471567267684,sweet,dessert,West Bengal,East,0.13934426229508198
+Kheer sagar,"chenna, condensed milk, sugar, saffron, cardamom",,0.05189620758483033,0.08460471567267684,sweet,dessert,Odisha,East,0.11885245901639345
+Ledikeni,"chhena, sugar, ghee",,0.09181636726546905,0.0638002773925104,sweet,dessert,West Bengal,East,0.12568306010928962
+Lyangcha,"flour, fried milk power, sugar syrup",,0.041916167664670656,0.04299583911234397,sweet,dessert,Assam,North East,0.07103825136612023
+Malapua,"yoghurt, refined flour, ghee, fennel seeds",,0.021956087824351298,0.1678224687933426,sweet,dessert,Bihar,North,0.18032786885245902
+Mihidana,"besan flour, sugar, ghee",,0.031936127744510975,0.04299583911234397,sweet,dessert,West Bengal,East,0.06420765027322405
+Misti doi,"milk, jaggery",,0.9600798403193612,0.04299583911234397,sweet,dessert,West Bengal,East,0.6994535519125683
+Pantua,"chhena, sugar, ghee, flour",,0.09181636726546905,0.0638002773925104,sweet,dessert,West Bengal,East,0.12568306010928962
+Pithe,"rice flour, wheat flour",,0.031936127744510975,0.049930651872399444,sweet,dessert,Assam,North East,0.07103825136612023
+Rasabali,"chenna, sweetened milk",,0.031936127744510975,0.04299583911234397,sweet,dessert,Odisha,East,0.06420765027322405
+Ras malai,"chhena, reduced milk, pistachio",,0.3612774451097804,0.08460471567267684,sweet,dessert,West Bengal,East,0.33060109289617484
+Rasgulla,"chhena, sugar, cardamom",,0.021956087824351298,0.1262135922330097,sweet,dessert,West Bengal,East,0.13934426229508198
+Sandesh,"milk, sugar, saffron, cardamom",,0.06187624750499001,0.02912621359223301,sweet,dessert,West Bengal,East,0.07103825136612023
+Adhirasam,"rice flour, jaggery, ghee, vegetable oil, elachi",,0.021956087824351298,0.07073509015256588,sweet,dessert,West Bengal,East,0.08469945355191257
+Ariselu,"rice flour, jaggery, ghee",,0.031936127744510975,0.10540915395284328,sweet,dessert,Andhra Pradesh,South,0.12568306010928962
+Bandar laddu,"besan, jaggery, cardamom powder, ghee, cashews and raisins, jaggery syrup, sugar",,0.011976047904191617,0.049930651872399444,sweet,dessert,Andhra Pradesh,South,0.05737704918032787
+Chikki,"peanuts, jaggery",,0.021956087824351298,0.02912621359223301,sweet,dessert,Maharashtra,West,0.04371584699453552
+Dharwad pedha,"milk, sugar, dharwadi buffalo milk",,0.041916167664670656,0.08460471567267684,sweet,dessert,Karnataka,South,0.11202185792349727
+Double ka meetha,"loaf bread, milk",,0.041916167664670656,0.04299583911234397,sweet,dessert,Telangana,South,0.07103825136612023
+Gavvalu,"rice flour, sugar, salt, ghee, semolina",,0.021956087824351298,0.04299583911234397,sweet,dessert,Andhra Pradesh,South,0.05737704918032787
+Kakinada khaja,"wheat flour, sugar",,0.021956087824351298,0.04299583911234397,sweet,dessert,Andhra Pradesh,South,0.05737704918032787
+Kuzhi paniyaram,"black lentils, rice",,0.021956087824351298,0.02912621359223301,sweet,dessert,Kerala,South,0.04371584699453552
+Mysore pak,"besan flour, semolina, mung bean, jaggery, coconut, skimmed milk powder, sugar, ghee",,0.011976047904191617,0.02912621359223301,sweet,dessert,Karnataka,South,0.03688524590163935
+Obbattu holige,"maida flour, turmeric, coconut, chickpeas, jaggery, ghee, cardamom",,0.3612774451097804,0.08460471567267684,sweet,main course,Karnataka,South,0.33060109289617484
+Palathalikalu,"rice flour, milk",,0.021956087824351298,0.036061026352288486,sweet,dessert,Andhra Pradesh,South,0.050546448087431695
+Poornalu,"chana dal, jaggery",,0.48103792415169655,0.08460471567267684,sweet,dessert,Andhra Pradesh,South,0.412568306010929
+Pongal,"rice, jaggery, cashews, ghee",,0.011976047904191617,0.02912621359223301,sweet,dessert,Tamil Nadu,South,0.03688524590163935
+Pootharekulu,"rice flour, powdered sugar, ghee",,0.021956087824351298,0.08460471567267684,sweet,dessert,Andhra Pradesh,South,0.09836065573770492
+Qubani ka meetha,"apricots, sugar syrup",,0.021956087824351298,0.02912621359223301,sweet,dessert,Telangana,South,0.04371584699453552
+Sheer korma,"vermicelli pudding, milk",,0.021956087824351298,0.02912621359223301,sweet,dessert,Telangana,South,0.04371584699453552
+Unni Appam,"rice flour, banana, jaggery, coconut",,0.021956087824351298,0.02912621359223301,sweet,dessert,Tamil Nadu,South,0.04371584699453552
+Kajjikaya,"rice flour, jaggery, coconut",,0.08183632734530938,0.022191400832177532,sweet,dessert,Andhra Pradesh,South,0.0778688524590164
+Anarsa,"rice flour, jaggery, khus-khus seeds",,0.021956087824351298,0.07073509015256588,sweet,dessert,Maharashtra,West,0.08469945355191257
+Basundi,"sugar, milk, nuts",,0.021956087824351298,0.049930651872399444,sweet,dessert,Gujarat,West,0.06420765027322405
+Dhondas,"cucumber, rava",,0.021956087824351298,0.07073509015256588,sweet,dessert,Maharashtra,West,0.08469945355191257
+Doodhpak,"milk, rice, sugar, dry fruits",,0.021956087824351298,0.08460471567267684,sweet,dessert,Gujarat,West,0.09836065573770492
+Mahim halwa,"semolina, sugar",,0.021956087824351298,0.036061026352288486,sweet,dessert,Maharashtra,West,0.050546448087431695
+Modak,"rice flour, coconut, jaggery ",,0.021956087824351298,0.022191400832177532,sweet,dessert,Maharashtra,West,0.03688524590163935
+Shankarpali,"sugar, ghee, maida flour, semolina",,0.021956087824351298,0.049930651872399444,sweet,dessert,Maharashtra,West,0.06420765027322405
+Shrikhand,"curd, sugar, saffron, cardamom",,0.021956087824351298,1.0,sweet,dessert,Maharashtra,West,1.0
+Sutar feni,"maida, sugar, ghee",,0.031936127744510975,0.07766990291262137,sweet,dessert,Maharashtra,West,0.09836065573770492
+Maach Jhol,"fish, potol, tomato, chillies, ginger, garlic",,0.021956087824351298,0.056865464632454926,spicy,main course,Assam,North East,0.07103825136612023
+Pork Bharta,"boiled pork, onions, chillies, ginger and garlic",,0.0,0.0,spicy,main course,Tripura,North East,0.0
+Chak Hao Kheer,"rice, milk, sugar, cardamom",,0.48103792415169655,0.0638002773925104,sweet,dessert,Manipur,North East,0.39207650273224043
+Galho,"rice, axone, salt, water, chillies, pork",,0.011976047904191617,0.022191400832177532,spicy,main course,Nagaland,North East,0.030054644808743168
+Aloo gobi,"cauliflower, potato, garam masala, turmeric, curry leaves",,0.021956087824351298,0.02912621359223301,spicy,main course,Punjab,North,0.04371584699453552
+Aloo tikki,"rice flour, potato, bread crumbs, garam masala, salt",,0.011976047904191617,0.02912621359223301,spicy,main course,Punjab,North,0.03688524590163935
+Aloo matar,"potato, peas, chillies, ginger, garam masala, garlic",,0.011976047904191617,0.056865464632454926,spicy,main course,Punjab,North,0.06420765027322405
+Aloo methi,"potato, fenugreek leaves, chillies, salt, oil",,0.021956087824351298,0.056865464632454926,bitter,main course,Punjab,North,0.07103825136612023
+Aloo shimla mirch,"potato, shimla mirch, garam masala, amchur powder, salt",,0.021956087824351298,0.056865464632454926,spicy,main course,Punjab,North,0.07103825136612023
+Bhatura,"chole, rava, yogurt, plain flour, baking soda",,0.041916167664670656,0.02912621359223301,spicy,main course,Punjab,North,0.05737704918032787
+Bhindi masala,"ladies finger, garam masala, kasuri methi, tomatoes, chili powder",,0.041916167664670656,0.04299583911234397,spicy,main course,Punjab,North,0.07103825136612023
+Biryani,"chicken thighs, basmati rice, star anise, sweet, green chillies",,0.06187624750499001,0.1678224687933426,spicy,main course,Telangana,South,0.20765027322404372
+Butter chicken,"chicken, greek yogurt, cream, garam masala powder, cashew nuts, butter",,0.021956087824351298,0.049930651872399444,spicy,main course,NCT of Delhi,North,0.06420765027322405
+Chana masala,"chickpeas, tomato paste, garam masala, ginger, red onion, avocado oil",,0.041916167664670656,0.04299583911234397,spicy,main course,Punjab,North,0.07103825136612023
+Chapati,"whole wheat flour, olive oil, hot water, all purpose flour",,0.021956087824351298,0.015256588072122053,-1,main course,Maharashtra,West,0.030054644808743168
+Chicken razala,"chicken, dahi, sesame seeds, garam masala powder, cashew nuts, saffron",,0.021956087824351298,0.049930651872399444,spicy,main course,West Bengal,East,0.06420765027322405
+Chicken Tikka masala,"naan bread, tomato sauce, skinless chicken breasts, heavy cream, garam masala",,0.021956087824351298,0.07073509015256588,spicy,main course,Punjab,North,0.08469945355191257
+Chicken Tikka,"chicken, whole wheat bread, rice flour, garam masala powder, whole egg",,0.24151696606786424,0.0638002773925104,spicy,starter,Punjab,North,0.22814207650273224
+Chole bhature,"chole, bhatura, garam masala, bay leaf, cinnamon stick",,0.041916167664670656,0.04299583911234397,spicy,main course,Punjab,North,0.07103825136612023
+Daal baati churma,"moong dal, masoor dal, chana dal, wheat flour, almond",,0.021956087824351298,0.1262135922330097,spicy,main course,Rajasthan,West,0.13934426229508198
+Daal puri,"moong dal, garam masala powder, garlic, green chilli, all purpose flour",,0.06187624750499001,0.04299583911234397,spicy,main course,West Bengal,East,0.08469945355191257
+Dal makhani ,"red kidney beans, urad dal, cream, garam masala, chili powder",,0.021956087824351298,0.08460471567267684,sweet,main course,Punjab,North,0.09836065573770492
+Dal tadka,"pigeon peas, garam masala, ginger, red onion, kasuri methi",,0.021956087824351298,0.04299583911234397,spicy,main course,Punjab,North,0.05737704918032787
+Dum aloo,"baby potatoes, garam masala, cashew nuts, kasuri methi, tomatoes",,0.041916167664670656,0.07073509015256588,spicy,main course,Jammu & Kashmir,North,0.09836065573770492
+Poha,"beaten rice flakes, potato, curry leaves, green chilies, lemon juice",,0.041916167664670656,0.04299583911234397,spicy,snack,Maharashtra,West,0.07103825136612023
+Fara,"chana dal, whole wheat flour, arhar dal, white urad dal, garam masala powder",,0.021956087824351298,0.08460471567267684,spicy,snack,Chhattisgarh,Central,0.09836065573770492
+Kachori,"moong dal, rava, garam masala, dough, fennel seeds",,0.06187624750499001,0.08460471567267684,spicy,snack,Uttar Pradesh,North,0.12568306010928962
+Kadai paneer,"cottage cheese, bell peppers, gravy, garam masala, cashew nuts",,0.041916167664670656,0.04299583911234397,spicy,main course,Punjab,North,0.07103825136612023
+Kadhi pakoda,"besan, garam masala powder, gram flour, ginger, curry leaves",,0.021956087824351298,0.08460471567267684,spicy,main course,Haryana,North,0.09836065573770492
+Karela bharta,"bitter gourd, fennel, garam masala powder, chili powder, amchur powder",,0.041916167664670656,0.07073509015256588,bitter,main course,Punjab,North,0.09836065573770492
+Khichdi,"moong dal, green peas, ginger, tomato, green chili",,0.08183632734530938,0.02912621359223301,spicy,main course,-1,-1,0.08469945355191257
+Kofta,"paneer, potato, cream, corn flour, garam masala",,0.041916167664670656,0.056865464632454926,spicy,main course,Uttar Pradesh,North,0.08469945355191257
+Kulfi falooda,"rose syrup, falooda sev, mixed nuts, saffron, sugar",,0.09181636726546905,0.036061026352288486,sweet,dessert,-1,-1,0.09836065573770492
+Lauki ke kofte,"bottle gourd, garam masala powder, gram flour, ginger, chillies",,0.041916167664670656,0.056865464632454926,spicy,main course,Uttar Pradesh,North,0.08469945355191257
+Lauki ki subji,"bottle gourd, coconut oil, garam masala, ginger, green chillies",,0.021956087824351298,0.02912621359223301,spicy,main course,-1,-1,0.04371584699453552
+Litti chokha,"wheat flour, roasted gram flour, tomato, nigella seeds, chilli",,0.09181636726546905,0.08460471567267684,spicy,main course,Bihar,North,0.14617486338797814
+Makki di roti sarson da saag,"palak, makki atta, mustard green, garam masala, ginger",,0.05189620758483033,0.04299583911234397,spicy,main course,Punjab,North,0.0778688524590164
+Misi roti,"whole wheat flour, chickpea flour, green chilies",,0.06187624750499001,0.04299583911234397,spicy,main course,Punjab,North,0.08469945355191257
+Mushroom do pyaza,"mushroom, malai, garam masala, ginger, capsicum",,0.021956087824351298,0.04299583911234397,spicy,main course,Punjab,North,0.05737704918032787
+Mushroom matar,"canned coconut milk, frozen green peas, wild mushrooms, garam masala, tomatoes",,0.021956087824351298,0.04299583911234397,spicy,main course,Punjab,North,0.05737704918032787
+Naan,"whole wheat flour, honey, butter, garlic",,0.12175648702594809,0.04299583911234397,-1,main course,Punjab,North,0.12568306010928962
+Navrattan korma,"green beans, potatoes, khus khus, low fat, garam masala powder",,0.05189620758483033,0.056865464632454926,spicy,main course,Uttar Pradesh,North,0.09153005464480875
+Palak paneer,"cottage cheese, palak, cream, garam masala, butter",,0.041916167664670656,0.056865464632454926,spicy,main course,Punjab,North,0.08469945355191257
+Paneer butter masala,"paneer, whipping cream, garam masala, cashew nuts, butter",,0.041916167664670656,0.056865464632454926,spicy,main course,Punjab,North,0.08469945355191257
+Paneer tikka masala,"paneer, greek yogurt, tandoori masala, cream, bell pepper",,0.041916167664670656,0.056865464632454926,spicy,main course,Punjab,North,0.08469945355191257
+Pani puri,"kala chana, mashed potato, boondi, sev, lemon",,0.031936127744510975,0.004160887656033287,spicy,snack,-1,-1,0.025956284153005466
+Panjeeri,"whole wheat flour, musk melon seeds, poppy seeds, edible gum, semolina",,0.021956087824351298,0.036061026352288486,sweet,dessert,Uttar Pradesh,,0.050546448087431695
+Papad,"urad dal, sev, lemon juice, chopped tomatoes",,0.011976047904191617,0.008321775312066574,spicy,snack,-1,-1,0.01639344262295082
+Paratha,"wheat flour, butter, potato, coriander",,0.031936127744510975,0.0638002773925104,spicy,main course,Punjab,North,0.08469945355191257
+Pattor,"arbi ke patte, sesame seeds, gur, bengal gram flour, imli",,0.021956087824351298,0.04299583911234397,spicy,main course,Rajasthan,West,0.05737704918032787
+Pindi chana,"fennel, tea bags, tomato, kasuri methi, cinnamon",,1.0,0.1678224687933426,spicy,main course,Punjab,North,0.8497267759562842
+Rajma chaval,"red kidney beans, garam masala powder, ginger, tomato, mustard oil",,0.031936127744510975,0.1262135922330097,spicy,main course,-1,North,0.14617486338797814
+Rongi,"garam masala powder, tomato, kasuri methi, cinnamon, mustard oil",,0.021956087824351298,0.04299583911234397,-1,main course,Punjab,North,0.05737704918032787
+Samosa,"potatoes, green peas, garam masala, ginger, dough",,0.06187624750499001,0.04299583911234397,spicy,snack,-1,-1,0.08469945355191257
+Sattu ki roti,"sattu, atta, dough, filling, mustard oil",,0.021956087824351298,0.02912621359223301,spicy,main course,Bihar,North,0.04371584699453552
+Shahi paneer,"cottage cheese, malai, garam masala, ginger, tomato",,0.041916167664670656,0.056865464632454926,spicy,main course,Punjab,North,0.08469945355191257
+Shahi tukra,"rose water, milk, white bread slices, saffron, almonds",,0.021956087824351298,0.04299583911234397,sweet,dessert,Telangana,South,0.05737704918032787
+Vegetable jalfrezi,"baby corn, french beans, garam masala, ginger, carrot",,0.021956087824351298,0.04299583911234397,spicy,main course,Punjab,North,0.05737704918032787
+Tandoori Chicken,"greek yogurt, garam masala, kasuri methi, marinade, mustard oil",,0.48103792415169655,0.04299583911234397,spicy,main course,Punjab,North,0.37158469945355194
+Tandoori Fish Tikka,"chickpea flour, biryani masala powder, yogurt, fish fillets, green bell pepper",,0.48103792415169655,0.04299583911234397,spicy,starter,Punjab,North,0.37158469945355194
+Attu,"whole wheat flour, arhar dal, ginger, kala jeera, green chilli",,0.3013972055888223,0.036061026352288486,spicy,snack,Andhra Pradesh,South,0.24180327868852458
+Avial,"raw banana, elephant foot yam, long beans, tindora, urad dal",,0.06187624750499001,0.0638002773925104,spicy,main course,Kerala,South,0.1051912568306011
+Bisi bele bath,"split pigeon peas, chana dal, urad dal, green peas, french beans",,0.06187624750499001,0.0638002773925104,spicy,main course,Karnataka,South,0.1051912568306011
+Currivepillai sadam ,"chana dal, urad dal, fresh coconut, sesame seeds, curry leaves",,0.021956087824351298,0.02912621359223301,spicy,main course,Tamil Nadu,South,0.04371584699453552
+Dosa,"chana dal, urad dal, whole urad dal, blend rice, rock salt",,0.7205588822355289,0.1262135922330097,spicy,snack,-1,South,0.6174863387978142
+Idiappam,"rice flour, hot water, grated coconut",,0.24151696606786424,0.04299583911234397,spicy,snack,Tamil Nadu,South,0.20765027322404372
+Idli,"split urad dal, urad dal, idli rice, thick poha, rock salt",,0.7205588822355289,0.1262135922330097,spicy,snack,-1,South,0.6174863387978142
+Kanji,"carrot, yellow mustard, red chilli, black salt",,0.021956087824351298,0.0638002773925104,-1,snack,Kerala,South,0.0778688524590164
+Kaara kozhambu,"sesame oil, drumstick, tamarind paste, sambar powder, tomato",,0.0,0.0,spicy,main course,Tamil Nadu,South,0.0
+Keerai kootu,"moong dal, chana dal, spinach, urad dal, coconut oil",,0.041916167664670656,0.04299583911234397,spicy,main course,Tamil Nadu,South,0.07103825136612023
+Keerai masiyal,"urad dal, curry leaves, sugar, mustard seeds, spinach",,0.0,0.0,spicy,main course,Tamil Nadu,South,0.0
+Keerai sadam,"greens, tomato, mustard seeds, fenugreek seeds",,0.021956087824351298,0.02912621359223301,spicy,main course,Tamil Nadu,South,0.04371584699453552
+Keerai poriyal,"amaranth leaves, split urad dal, mustard seeds, grated coconut, red chili",,0.041916167664670656,0.04299583911234397,spicy,main course,Tamil Nadu,South,0.07103825136612023
+Beef Fry,"beef, coconut, garam masala, curry leaves, green chilies, chili powder",,0.021956087824351298,0.08460471567267684,spicy,main course,Kerala,South,0.09836065573770492
+Kootu,"chana dal, urad dal, potato, beans, peas",,0.021956087824351298,0.022191400832177532,spicy,main course,Tamil Nadu,South,0.03688524590163935
+Kos kootu,"moong dal, chana dal, cabbage, tamarind, curry leaves",,0.021956087824351298,0.02912621359223301,spicy,main course,Tamil Nadu,South,0.04371584699453552
+Koshambri,"moong dal, cucumber, curry leaves, green chili, lemon juice",,0.021956087824351298,0.02912621359223301,spicy,main course,Karnataka,South,0.04371584699453552
+Kothamali sadam,"chana dal, urad dal, gooseberry, raw rice, curry leaves",,0.021956087824351298,0.02912621359223301,spicy,main course,Tamil Nadu,South,0.04371584699453552
+Kuzhakkattai,"sesame oil, raw rice, jaggery, grated coconut",,0.021956087824351298,0.1262135922330097,spicy,main course,Tamil Nadu,South,0.13934426229508198
+Kuzhambu,"pearl onions, urad dal, drumsticks, tomato, curry leaves",,0.011976047904191617,0.04299583911234397,spicy,main course,Tamil Nadu,South,0.050546448087431695
+Masala Dosa,"chana dal, urad dal, potatoes, idli rice, thick poha",,0.7205588822355289,0.1262135922330097,spicy,snack,-1,South,0.6174863387978142
+Pachadi,"coconut oil, cucumber, curd, curry leaves, mustard seeds",,0.021956087824351298,0.036061026352288486,-1,main course,-1,South,0.050546448087431695
+Paniyaram,"yogurt, ginger, curry leaves, baking soda, green chilli",,0.021956087824351298,0.02912621359223301,-1,main course,Tamil Nadu,South,0.04371584699453552
+Papadum,"lentils, black pepper, vegetable oil",,0.011976047904191617,0.008321775312066574,spicy,snack,Kerala,South,0.01639344262295082
+Paravannam,"raw rice,  jaggery, milk",,0.0,0.0,spicy,main course,Kerala,South,0.0
+Payasam,"rice, cashew nuts, milk, raisins, sugar",,0.031936127744510975,0.04299583911234397,sweet,dessert,-1,South,0.06420765027322405
+Paruppu sadam,"arhar dal, sambar powder, tomato, curry leaves, fennel seeds",,0.021956087824351298,0.02912621359223301,-1,main course,Tamil Nadu,South,0.04371584699453552
+Pesarattu,"green moong beans, rice flour",,0.24151696606786424,0.02912621359223301,spicy,snack,Andhra Pradesh,South,0.19398907103825136
+Poriyal,"chana dal, urad dal, beans, coconut, mustard",,0.0,0.0,spicy,main course,Tamil Nadu,South,0.0
+Puli sadam,"urad dal, lemon, tamarind, cooked rice, curry leaves",,0.021956087824351298,0.02912621359223301,-1,main course,Tamil Nadu,South,0.04371584699453552
+Rasam,"tomato, curry leaves, garlic, mustard seeds, hot water",,0.021956087824351298,0.049930651872399444,spicy,main course,-1,South,0.06420765027322405
+Puttu,"brown rice flour, sugar, grated coconut",,0.9900199600798403,0.056865464632454926,-1,main course,Kerala,South,0.7336065573770492
+Sambar,"pigeon peas, eggplant, drumsticks, sambar powder, tamarind",,0.041916167664670656,0.0638002773925104,spicy,main course,-1,South,0.09153005464480875
+Sandige,"thin rice flakes, black sesame seeds, curry leaves",,0.24151696606786424,0.08460471567267684,-1,main course,Karnataka,South,0.24863387978142076
+Sevai,"sevai, parboiled rice, steamer",,0.24151696606786424,0.04299583911234397,-1,main course,-1,South,0.20765027322404372
+Thayir sadam,"urad dal, curd, sesame oil, ginger, curry leaves, mustard seeds",,0.021956087824351298,0.02912621359223301,-1,main course,Tamil Nadu,South,0.04371584699453552
+Theeyal,"coconut, whole red beans, masala, sesame oil, tamarind",,0.031936127744510975,0.02912621359223301,-1,main course,Kerala,South,0.050546448087431695
+Uttapam,"chana dal, urad dal, thick poha, tomato, butter",,0.021956087824351298,0.02912621359223301,spicy,snack,-1,South,0.04371584699453552
+Vada,"urad dal, ginger, curry leaves, green chilies, black pepper",,0.031936127744510975,0.02912621359223301,spicy,snack,-1,South,0.050546448087431695
+Chicken Varuval,"meat curry powder, chicken chunks, ginger, tomato, cinnamon",,0.021956087824351298,0.049930651872399444,spicy,main course,Tamil Nadu,South,0.06420765027322405
+Upma,"chana dal, urad dal, ginger, curry leaves, sugar",,0.021956087824351298,0.02912621359223301,spicy,snack,-1,-1,0.04371584699453552
+Amti,"kala masala, arhar dal, curry leaves, mustard seeds, hot water",,0.021956087824351298,0.0638002773925104,spicy,main course,Maharashtra,West,0.0778688524590164
+Zunka,"gram flour, mustard, garlic, turmeric, red chilli",,0.021956087824351298,0.036061026352288486,spicy,main course,Maharashtra,West,0.050546448087431695
+Kolim Jawla,"baingan, fish, coconut oil, fresh coconut, ginger",,0.0,0.0,spicy,main course,Maharashtra,West,0.0
+Saath,"urad dal, potatoes, wheat flour, sooji",,0.041916167664670656,0.056865464632454926,spicy,main course,Gujarat,West,0.08469945355191257
+Bajri no rotlo,"wheat flour, pearl millet flour, hot water",,0.021956087824351298,0.015256588072122053,spicy,main course,Gujarat,West,0.030054644808743168
+Coconut vadi,"condensed milk, mawa, desiccated coconut, almonds, cashews",,0.041916167664670656,0.04299583911234397,sweet,dessert,Maharashtra,West,0.07103825136612023
+Bhakri,"jowar flour, sesame seeds",,0.041916167664670656,0.036061026352288486,-1,main course,Maharashtra,West,0.06420765027322405
+Bombil fry,"bombay duck, malvani masala, rice flour, bombay rava, green chilies",,0.0,0.0,spicy,main course,Maharashtra,West,0.0
+Chakali,"rice flour, sesame, plain flour, turmeric, red chilli",,0.021956087824351298,0.056865464632454926,spicy,snack,Maharashtra,West,0.07103825136612023
+Chevdo,"citric acid, fry, raisins, sugar, chana daal",,0.041916167664670656,0.04299583911234397,spicy,snack,Gujarat,West,0.07103825136612023
+Chorafali,"urad dal, bengal gram flour, dried mango, baking soda, black salt",,0.011976047904191617,0.022191400832177532,spicy,snack,Gujarat,West,0.030054644808743168
+Copra paak,"condensed milk, nestle cream, coconut ice, red food coloring, desiccated coconut",,0.041916167664670656,0.04299583911234397,-1,main course,Gujarat,West,0.07103825136612023
+Daal Dhokli,"whole wheat flour, dal, kokum, gur, bengal gram flour",,0.041916167664670656,0.04299583911234397,spicy,main course,Gujarat,West,0.07103825136612023
+Kutchi dabeli,"pav, aloo, peanut, pomegranate, star anise",,0.06187624750499001,0.015256588072122053,spicy,snack,Gujarat,West,0.05737704918032787
+Dahi vada,"urad dal, bhuna chana, garam masala, dates, tamarind",,0.06187624750499001,0.04299583911234397,-1,snack,Maharashtra,West,0.08469945355191257
+Dalithoy,"arhar dal, coconut oil, curry leaves, mustard seeds, red chilli",,0.011976047904191617,0.02912621359223301,-1,main course,Maharashtra,West,0.03688524590163935
+Dhokla,"rava, coconut, gram flour, mustard, sesame",,0.021956087824351298,0.02912621359223301,spicy,snack,Gujarat,West,0.04371584699453552
+Dudhi halwa,"bottle gourd, green, raisins, sugar, clarified butter",,0.031936127744510975,0.04299583911234397,sweet,dessert,Gujarat,West,0.06420765027322405
+Gatta curry,"yogurt, besan, sauce, garam masala powder, gram flour",,0.021956087824351298,0.02912621359223301,spicy,main course,Rajasthan,West,0.04371584699453552
+Gud papdi,"wheat flour, jaggery, clarified butter, sliced almonds",,0.021956087824351298,0.02912621359223301,sweet,dessert,Gujarat,West,0.04371584699453552
+Ghooghra,"dry fruits, semolina, all purpose flour",,0.0,0.0,spicy,snack,Gujarat,West,0.0
+Handwo,"bottle gourd, chana dal, cabbage, urad dal, toor dal",,0.041916167664670656,0.04299583911234397,spicy,snack,Gujarat,West,0.07103825136612023
+Halvasan,"whole wheat rava, chia seed, lemon, edible gum, litre milk",,0.0,0.0,sweet,dessert,Gujarat,West,0.0
+Jeera Aloo,"green chilies, lemon juice, chili powder, boiled potatoes",,0.021956087824351298,0.04299583911234397,spicy,main course,Gujarat,West,0.05737704918032787
+Kansar,"wheat flour, cashews, rapeseed oil",,0.021956087824351298,0.056865464632454926,-1,main course,Gujarat,West,0.07103825136612023
+Keri no ras,"mango, sugar",,0.021956087824351298,0.015256588072122053,sour,main course,Gujarat,West,0.030054644808743168
+Khakhra,"whole wheat flour, low fat, bengal gram flour",,0.041916167664670656,0.056865464632454926,spicy,snack,Gujarat,West,0.08469945355191257
+Khandvi,"green chili paste, white sesame seeds, gram flour, curry leaves, green chili",,0.041916167664670656,0.0638002773925104,spicy,snack,Gujarat,West,0.09153005464480875
+Kombdi vade,"rice flour, urad dal, wheat flour, gram flour, turmeric",,0.021956087824351298,0.036061026352288486,spicy,snack,Maharashtra,West,0.050546448087431695
+Laapsi,"cinnamon, jaggery, clarified butter, dry roasted",,0.021956087824351298,0.056865464632454926,spicy,main course,Madhya Pradesh,Central,0.07103825136612023
+Koshimbir,"cucumber, carrot, tomatoes, cilantro",,0.021956087824351298,0.015256588072122053,spicy,main course,Maharashtra,West,0.030054644808743168
+Methi na Gota,"rava, gram flour, lemon juice, turmeric, fenugreek leaves",,0.031936127744510975,0.04299583911234397,bitter,main course,Gujarat,West,0.06420765027322405
+Mohanthal,"rose water, pistachio, badam, bengal gram flour, saffron",,0.011976047904191617,0.0638002773925104,sweet,dessert,Gujarat,West,0.07103825136612023
+Muthiya,"bottle gourd, whole wheat flour, rava, sesame seeds, bengal gram flour",,0.031936127744510975,0.04299583911234397,bitter,snack,Gujarat,West,0.06420765027322405
+Patra,"arbi ke patte, sesame seeds, gur, bengal gram flour, imli",,0.021956087824351298,0.056865464632454926,spicy,snack,Gujarat,West,0.07103825136612023
+Pav Bhaji,"pav bhaji masala, gobi, potatoes, green peas, dinner rolls",,0.041916167664670656,0.056865464632454926,spicy,main course,Maharashtra,West,0.08469945355191257
+Puri Bhaji,"aloo, urad dal, mustard, ginger, curry leaves",,0.021956087824351298,0.04299583911234397,spicy,main course,Maharashtra,West,0.05737704918032787
+Sabudana Khichadi,"raw peanuts, sabudana, lemon, avocado oil, curry leaves, green chili",,0.14171656686626746,0.04299583911234397,spicy,snack,Maharashtra,West,0.13934426229508198
+Sev khamani,"khaman, pomegranate, sev, powdered sugar, garlic",,0.041916167664670656,0.04299583911234397,spicy,main course,Gujarat,West,0.07103825136612023
+Sev tameta,"sev, ginger, tomato, sugar",,0.041916167664670656,0.04299583911234397,spicy,main course,Gujarat,West,0.07103825136612023
+Namakpara,"wheat flour, baking soda, all purpose flour, black pepper, sunflower oil",,0.021956087824351298,0.049930651872399444,spicy,snack,Gujarat,West,0.06420765027322405
+Sukhdi,"whole wheat flour, gur, clarified butter",,0.021956087824351298,0.02912621359223301,sweet,dessert,Maharashtra,West,0.04371584699453552
+Surnoli,"rice flakes, yogurt, raw rice, jaggery, grated coconut",,0.12175648702594809,0.015256588072122053,spicy,snack,Maharashtra,West,0.09836065573770492
+Thalipeeth,"whole wheat flour, rice flour, pearl millet flour, sorghum flour, sesame seeds",,0.05189620758483033,0.04299583911234397,spicy,main course,Maharashtra,West,0.0778688524590164
+Undhiyu,"sweet potato, surti papdi, baby potatoes, valor papdi, green peas",,0.05189620758483033,0.08460471567267684,spicy,main course,Gujarat,West,0.11885245901639345
+Veg Kolhapuri,"gobi, potato, beans, khus khus, coconut",,0.041916167664670656,0.04299583911234397,spicy,main course,Maharashtra,West,0.07103825136612023
+Vindaloo,"chicken, coconut oil, wine vinegar, ginger, green, cinnamon",,0.021956087824351298,0.056865464632454926,spicy,main course,Goa,West,0.07103825136612023
+Lilva Kachori,"green garlic chutney, fresh green peas, ginger, lemon juice, plain flour",,0.06187624750499001,0.009708737864077669,spicy,snack,Gujarat,West,0.05191256830601093
+Mag Dhokli,"moong beans, jaggery, red chillies, oil, salt",,0.0,0.0,spicy,snack,Gujarat,West,0.0
+Khichu,"rice flour, sesame seeds, baking soda, peanut oil",,0.011976047904191617,0.015256588072122053,spicy,snack,Gujarat,West,0.023224043715846993
+Thepla,"chickpea flour, methi leaves, jowar flour, wheat flour",,0.031936127744510975,0.04299583911234397,spicy,snack,Gujarat,West,0.06420765027322405
+Farsi Puri,"semolina, clarified butter, oil, white flour, black pepper",,0.0,0.0,-1,snack,Gujarat,West,0.0
+Khaman,"yogurt, fresh coconut, sesame seeds, semolina, gram flour",,0.021956087824351298,0.02912621359223301,spicy,snack,Gujarat,West,0.04371584699453552
+Turiya Patra Vatana sabji,"ridge gourd, baking soda, sugar, grated coconut, peas",,0.0718562874251497,0.056865464632454926,spicy,main course,Gujarat,West,0.1051912568306011
+Churma Ladoo,"whole wheat flour, khus khus, sesame seeds, dry coconut, gur",,0.02594810379241517,0.056865464632454926,sweet,dessert,Rajasthan,West,0.07377049180327869
+Cheera Doi,"rice, mango, curd",,0.0,0.0,sweet,dessert,West Bengal,East,0.0
+Gheela Pitha,"sticky rice, rice flour, jaggery, orange rind",,0.021956087824351298,0.04299583911234397,sweet,dessert,Assam,North East,0.05737704918032787
+Khar,"raw papaya, panch phoran masala, nigella seeds, mustard oil, fennel seeds",,0.021956087824351298,0.02912621359223301,-1,main course,Assam,North East,0.04371584699453552
+Kumol Sawul,"rice, eggs, carrot, beetroot",,0.0,0.0,spicy,main course,Assam,North East,0.0
+Luchi,"maida, vegetable oil",,0.041916167664670656,0.04299583911234397,-1,main course,West Bengal,East,0.07103825136612023
+Alu Pitika,"potatoes, mustard oil, fish, green chillies",,0.011976047904191617,0.02912621359223301,spicy,main course,Assam,North East,0.03688524590163935
+Masor tenga,"ridge gourd, fish, lemon, tomatoes, mustard oil",,0.031936127744510975,0.036061026352288486,spicy,main course,Assam,North East,0.05737704918032787
+Bengena Pitika,"brinjal, onions, salt, sesame seeds, coriander",,0.0,0.0,-1,main course,Assam,North East,0.0
+Bilahi Maas,"potatoes, garam masala, tomatoes, mustard oil, bay leaf",,0.021956087824351298,0.02912621359223301,-1,main course,Assam,North East,0.04371584699453552
+Black rice,"forbidden black rice, chicken, olive oil, slivered almonds, garlic powder",,0.0,0.0,-1,main course,Manipur,North East,0.0
+Bora Sawul,"biryani masala, mixed vegetables, yellow moong daal, whole red, mustard seeds",,0.0,0.0,spicy,main course,Assam,North East,0.0
+Brown Rice,"brown rice, soy sauce, olive oil",,0.031936127744510975,0.036061026352288486,-1,main course,-1,-1,0.05737704918032787
+Chingri malai curry,"coconut milk, lobster, fresh green chilli, ginger, red onion",,0.021956087824351298,0.056865464632454926,spicy,main course,West Bengal,East,0.07103825136612023
+Goja,"baking soda, clarified butter, oil, all purpose flour",,0.041916167664670656,0.08460471567267684,sweet,dessert,West Bengal,East,0.11202185792349727
+Hando Guri,"jaggery, raisins",,0.0,0.0,sweet,dessert,Assam,North East,0.0
+Haq Maas,"lamb, garam masala powder, curd, turmeric, bay leaf",,0.041916167664670656,0.056865464632454926,spicy,main course,Assam,North East,0.08469945355191257
+Chingri Bhape,"coconut, prawns, curd, mustard seed, green chili",,0.031936127744510975,0.04299583911234397,-1,main course,West Bengal,East,0.06420765027322405
+Kabiraji,"fish fillet, besan, lemon, mint, ginger",,0.0,0.0,spicy,main course,West Bengal,East,0.0
+Khorisa,"fermented bamboo shoot, potato, ginger, green, mustard oil",,0.0,0.0,spicy,main course,Assam,North East,0.0
+Koldil Chicken,"banana flower, chicken, green chili, mustard oil, lemon juice",,0.0,0.0,spicy,main course,Assam,North East,0.0
+Konir Dom,"aloo, tomatoes, mustard oil, bay leaf, cinnamon stick",,0.0,0.0,spicy,main course,Assam,North East,0.0
+Koldil Duck,"rice flour, mutton, banana, gram flour, olive oil, baking powder",,0.0,0.0,spicy,main course,Assam,North East,0.0
+Masor Koni,"fish roe, pumpkin flowers, mustard oil, turmeric, tomato",,0.0,0.0,spicy,main course,Assam,North East,0.0
+Mishti Chholar Dal,"chana dal, fresh coconut, ginger, cinnamon, raisins",,0.021956087824351298,0.04299583911234397,sweet,main course,West Bengal,East,0.05737704918032787
+Pakhala,"curd, cooked rice, curry leaves, dry chilli",,0.0,0.0,-1,main course,Odisha,East,0.0
+Pani Pitha,"tea leaves, white sesame seeds, dry coconut, soaked rice",,0.021956087824351298,0.02912621359223301,-1,main course,Assam,North East,0.04371584699453552
+Payokh,"basmati rice, rose water, sugar, clarified butter, cardamom pods",,0.0,0.0,sweet,dessert,Assam,North East,0.0
+Prawn malai curry,"coconut milk, prawns, garlic, turmeric, sugar",,0.031936127744510975,0.07073509015256588,spicy,main course,West Bengal,East,0.09153005464480875
+Red Rice,"red pepper, red onion, butter, watercress, olive oil",,0.0,0.0,-1,main course,-1,-1,0.0
+Shukto,"green beans, bitter gourd, ridge gourd, banana, brinjal",,0.021956087824351298,0.02912621359223301,spicy,main course,West Bengal,East,0.04371584699453552
+Til Pitha,"glutinous rice, black sesame seeds, gur",,0.011976047904191617,0.04299583911234397,sweet,dessert,Assam,North East,0.050546448087431695
+Bebinca,"coconut milk, egg yolks, clarified butter, all purpose flour",,0.041916167664670656,0.08460471567267684,sweet,dessert,Goa,West,0.11202185792349727
+Shufta,"cottage cheese, dry dates, dried rose petals, pistachio, badam",,0.0,0.0,sweet,dessert,Jammu & Kashmir,North,0.0
+Mawa Bati,"milk powder, dry fruits, arrowroot powder, all purpose flour",,0.041916167664670656,0.0638002773925104,sweet,dessert,Madhya Pradesh,Central,0.09153005464480875
+Pinaca,"brown rice, fennel seeds, grated coconut, black pepper, ginger powder",,0.0,0.0,sweet,dessert,Goa,West,0.0

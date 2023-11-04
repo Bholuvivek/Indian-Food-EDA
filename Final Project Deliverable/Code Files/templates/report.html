@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Indian Food EDA Report</title>
+    <style>
+        /* Add your custom CSS styles here */
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f2f2f2;
+            margin: 0;
+            padding: 0;
+        }
+        .scene {
+            background-color: #fff;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+            border-radius: 5px;
+            margin: 20px;
+            padding: 20px;
+        }
+        .header {
+            background-color: #007BFF;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+        .title {
+            font-size: 24px;
+            font-weight: bold;
+            margin-bottom: 20px;
+        }
+        .content {
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    {% for scene in scenes %}
+    <div class="scene">
+        <div class="header">
+            <h1>Indian Food EDA Report</h1>
+        </div>
+        <div class="content">
+            <div class="title">{{ scene['title'] }}</div>
+            <p>{{ scene['content'] }}</p>
+            {% if 'data' in scene %}
+            <table>
+                <tr>
+                    <th>Name</th>
+                    <th>Ingredients</th>
+                    <th>Diet</th>
+                    <th>Prep Time</th>
+                    <th>Cook Time</th>
+                    <th>Flavor Profile</th>
+                    <th>Course</th>
+                    <th>State</th>
+                    <th>Region</th>
+                </tr>
+                {% for item in scene['data'] %}
+                <tr>
+                    <td>{{ item['name'] }}</td>
+                    <td>{{ item['ingredients'] }}</td>
+                    <td>{{ item['diet'] }}</td>
+                    <td>{{ item['prep_time'] }}</td>
+                    <td>{{ item['cook_time'] }}</td>
+                    <td>{{ item['flavor_profile'] }}</td>
+                    <td>{{ item['course'] }}</td>
+                    <td>{{ item['state'] }}</td>
+                    <td>{{ item['region'] }}</td>
+                </tr>
+                {% endfor %}
+            </table>
+            {% endif %}
+        </div>
+    </div>
+    {% endfor %}
+    <div class="log-sign" style="--i: 1.8s">
+        <a href="/dashboard" class="btn transparent">Back</a>
+    </div>
+</body>
+</html>
