@@ -23,6 +23,13 @@ Indian Food Eda is your culinary companion for exploring the wonders of Indian f
 
 We welcome contributions from the community! If you have your own favorite Indian recipes, cooking tips, or cultural insights to share, please feel free to contribute to this project. Follow our [contribution guidelines](CONTRIBUTING.md) to get started.
 
+## Contributors
+
+- Vivek Kumar (Team Leader) - GitHub: [Bholuvivek](https://github.com/Bholuvivek)
+- Raviranjan Kumar (Team Member 1) - GitHub: [Raviranjankumar788](https://github.com/Raviranjankumar788)
+- Azharuddin Ansari (Team Member 2) - GitHub: [Bholuvivek](https://github.com/Azharuddin91284)
+- MD Ajbullah Mansuri (Team Member 3) - GitHub: [Raviranjankumar788](https://github.com/MdAjbullah)
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code and content in accordance with the license terms.
