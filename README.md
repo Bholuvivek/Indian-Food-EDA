@@ -31,17 +31,17 @@ This project is licensed under the [MIT License](LICENSE). Feel free to use, mod
 
 Have questions, suggestions, or just want to chat about Indian cuisine? Reach out to us:
 
-- Email: [contact@indianfoodeda.com](mailto:viveksinghpihuli0a@gmail.com)
+- Email: [viveksinghpihuli0a@gmail.com](mailto:viveksinghpihuli0a@gmail.com)
 
 
 ## Follow Us
 
 Stay updated with our latest recipes and culinary adventures:
 
-- YouTube: [Indian Food Eda on YouTube]([https://www.youtube.com/indianfoodeda](https://youtu.be/ZNWMyDzL8AE?si=w68sBV8yD_MJk2I2))
+- YouTube: [Vivek]([https://www.youtube.com/indianfoodeda](https://youtu.be/ZNWMyDzL8AE?si=w68sBV8yD_MJk2I2))
 
 ## Enjoy Your Culinary Journey
 
 Thank you for choosing Indian Food Eda as your culinary companion. We hope you enjoy your time here and savor the incredible flavors of India. Happy cooking!
 
-![Indian Food Eda Logo](food3.png)
+![Indian Food Eda Logo](food3.jpg)
