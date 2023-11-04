@@ -31,14 +31,14 @@ This project is licensed under the [MIT License](LICENSE). Feel free to use, mod
 
 Have questions, suggestions, or just want to chat about Indian cuisine? Reach out to us:
 
-- Email: [viveksinghpihuli0a@gmail.com](mailto:viveksinghpihuli0a@gmail.com)
+- Email: [jctboy@gmail.com](mailto:viveksinghpihuli0a@gmail.com)
 
 
 ## Follow Us
 
 Stay updated with our latest recipes and culinary adventures:
 
-- YouTube: [Vivek]([https://www.youtube.com/indianfoodeda](https://youtu.be/ZNWMyDzL8AE?si=w68sBV8yD_MJk2I2))
+- YouTube: [Vivek](https://youtu.be/ZNWMyDzL8AE?si=w68sBV8yD_MJk2I2)
 
 ## Enjoy Your Culinary Journey
 
