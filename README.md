@@ -30,15 +30,13 @@ We welcome contributions from the community! If you have your own favorite India
 - Azharuddin Ansari (Team Member 2) - GitHub: [Azharuddin91284](https://github.com/Azharuddin91284)
 - MD Ajbullah Mansuri (Team Member 3) - GitHub: [MdAjbullah](https://github.com/MdAjbullah)
 
-## License
-
-This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code and content in accordance with the license terms.
 
 ## Contact
 
 Have questions, suggestions, or just want to chat about Indian cuisine? Reach out to us:
 
-- Email: [jctboy@gmail.com](mailto:viveksinghpihuli0a@gmail.com)
+- Email: [viveksinghpihuli0a@gmail.com](mailto:viveksinghpihuli0a@gmail.com)
+- Email: [raviranjandrcc2001@gmail.com](mailto:raviranjandrcc2001@gmail.com)
 
 
 ## Follow Us
