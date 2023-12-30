@@ -37,6 +37,8 @@ Have questions, suggestions, or just want to chat about Indian cuisine? Reach ou
 
 - Email: [viveksinghpihuli0a@gmail.com](mailto:viveksinghpihuli0a@gmail.com)
 - Email: [raviranjandrcc2001@gmail.com](mailto:raviranjandrcc2001@gmail.com)
+- Email: [azharuddintech915@gmail.com](mailto:azharuddintech915@gmail.com)
+- Email: [mdajbullahmansuri@gmail.com](mailto:mdajbullahmansuri@gmail.com)
 
 
 ## Follow Us
